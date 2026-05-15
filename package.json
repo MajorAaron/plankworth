@@ -1,0 +1,10 @@
+{
+  "name": "plankworth",
+  "version": "1.0.0",
+  "description": "Plankworth — AI Tree Valuator. Snap a photo, learn what your tree is worth.",
+  "private": true,
+  "scripts": {
+    "build": "echo 'No build step — static site'"
+  },
+  "dependencies": {}
+}
